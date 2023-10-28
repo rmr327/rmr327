@@ -44,4 +44,6 @@ I'm currently on a thrilling journey, pursuing an MS in Data Science (MIDS) at D
 ##
 Join me on my journey to explore the exciting world of data science, software engineering, quantitative finance, and finding value from every day data!
 
+##
+[![](https://visitcount.itsvg.in/api?id=rmr327&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
