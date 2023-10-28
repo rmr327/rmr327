@@ -8,7 +8,7 @@ I'm currently on a thrilling journey, pursuing an MS in Data Science (MIDS) at D
 
 🔧 Specialized in crafting robust FTR trading strategies, driving data-driven decisions through analytics, and implementing machine learning solutions.
 
-💡 Proficient in algorithm development, financial analysis, and building efficient data pipelines.
+🧮 Proficient in algorithm development, financial analysis, and building efficient data pipelines.
 
 📱 Proven track record of developing trading tools capable of effectively handling and vizualizing big data for enhanced decision-making.
 
