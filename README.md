@@ -4,7 +4,7 @@ I'm currently on a thrilling journey, pursuing an MS in Data Science (MIDS) at D
 
 ## About Me
 
-📊 With over 3 years of professional experience at Susquehanna International Group (SIG) as an Electricity Strategist.
+📊 Over 3 years of professional experience at Susquehanna International Group (SIG) as an Electricity Strategist.
 
 🔧 Specialized in crafting robust FTR trading strategies, driving data-driven decisions through analytics, and implementing machine learning solutions.
 
