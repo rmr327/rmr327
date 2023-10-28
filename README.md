@@ -1,4 +1,5 @@
-# Hi there, I'm Rakeen Rouf 👋 [<img src="https://img.shields.io/badge/Google%20Scholar-Profile-green?logo=google-scholar">]([https://scholar.google.com/citations?user=yourgoogleid](https://scholar.google.com/citations?user=RSSBjWUAAAAJ&hl=en)) [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">]([https://www.linkedin.com/in/yourlinkedinid/](https://www.linkedin.com/in/rakeen-rouf/))
+# Hi there, I'm Rakeen Rouf 👋
+[<img src="https://img.shields.io/badge/Google%20Scholar-Profile-green?logo=google-scholar">](https://scholar.google.com/citations?user=RSSBjWUAAAAJ&hl=en) [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">](https://www.linkedin.com/in/rakeen-rouf/)
 
 I'm currently on a thrilling journey, pursuing an MS in Data Science (MIDS) at Duke University, backed by a strong foundation in Electrical Engineering and Computer Engineering earned at Drexel University. Follow along with my GitHub repository to stay up-to-date with my latest projects and contributions!
 
